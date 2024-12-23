@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m Full Stack Developer <br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about anything<br>📫 How to reach me: errochdiabdessamad26@gmail.com
+💻 I’m a Full Stack Developer <br>🌍 I’m looking to collaborate on open-source projects<br>💬 Ask me about anything<br>📧 How to reach me: errochdiabdessamad26@gmail.com
 
 
 
